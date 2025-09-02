@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "64299433863",
+    "project_id": "telegramnoinappbrowser",
+    "storage_bucket": "telegramnoinappbrowser.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64299433863:android:8076c6be03b435128edd22",
+        "android_client_info": {
+          "package_name": "org.telegram.messenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4uw8Rxgdg_ygm-wS9bwVeVaiWH_1bI-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64299433863:android:930867c5c67bd8d48edd22",
+        "android_client_info": {
+          "package_name": "org.telegram.messenger.beta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4uw8Rxgdg_ygm-wS9bwVeVaiWH_1bI-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
